@@ -60,8 +60,6 @@ The analysis highlighted the importance of chemical variety in classifying the d
 The analysis was implemented in Python, utilizing key libraries for data manipulation, visualization, and modeling, including NumPy, Pandas, Seaborn, Matplotlib, and SciPy. Machine learning and statistical modeling were performed using scikit-learn, with specific tools for logistic regression, model evaluation metrics, and train-test splitting.
 
 
-#### Data visualisations
-
 
 
 
